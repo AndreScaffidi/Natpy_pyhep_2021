@@ -1,4 +1,4 @@
-# Natpy_pyhep_2021
+# Natpy pyhep 2021
 
 In high energy physics, the standard convention for expressing physical quantities is natural units. The standard paradigm sets c = ℏ = ε₀ = 1 and hence implicitly rescales all physical quantities that depend on unit derivatives of these quantities.
 
