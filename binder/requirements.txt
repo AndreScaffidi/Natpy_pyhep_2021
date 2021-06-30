@@ -1,0 +1,5 @@
+natpy==0.1.0
+numpy==1.19.1
+astropy==4.0.1.post1
+# Ensure Jupyter notebook
+jupyter~=1.0
