@@ -1,5 +1,5 @@
 # Natpy
-Click the tag below for guided tutorial:
+Click the tag below for a guided tutorial:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AndreScaffidi/Natpy_pyhep_2021/HEAD?filepath=pyhep.ipynb)
 
